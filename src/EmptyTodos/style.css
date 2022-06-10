@@ -1,0 +1,9 @@
+p {
+  font-size: 2em;
+  margin-bottom: 100px;
+}
+@media (max-width: 1000px) {
+  p {
+    margin-bottom: 0;
+  }
+}

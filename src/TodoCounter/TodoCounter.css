@@ -1,0 +1,11 @@
+.TodoCounter {
+  font-size: 2em;
+  padding: 48px;
+  color: #232323;
+}
+@media (max-width: 1000px) {
+  .TodoCounter {
+    margin: 0;
+    padding: 22px;
+  }
+}
